@@ -37,7 +37,7 @@ Memory limit (MB):
  - Each character in program will have ASCII value between 32 and 127, inclusive.
   
  
--Examples
+- Examples
  
  0)  
 {"Test* t = new Test();","t->a = 1;","t->b = 2;","t->go(); // a=1, b=2 --> a=2, b=3"}
