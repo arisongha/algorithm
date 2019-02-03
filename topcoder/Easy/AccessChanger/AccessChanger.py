@@ -25,7 +25,4 @@ class AccessChanger:
 
 
 ac = AccessChanger()
-
 ac.convert(tuple({"->-> // two successive arrows ->->"}))
-
-
