@@ -7,6 +7,7 @@ class AB:
     def createString(self, N, K):
         
         if K > N//2 * (N - N//2) :
+            print(self.result)
             return self.result
         
         beforeN = 0
@@ -45,6 +46,7 @@ class AB:
         for i,v in enumerate(wordList) :
             self.result += v
                 
+        print(self.result)
         return self.result 
                 
 
