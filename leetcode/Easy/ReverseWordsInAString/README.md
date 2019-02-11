@@ -1,6 +1,6 @@
 # Reverse Words In A String
 
-- Given an input string, reverse the string word by word.
+Given an input string, reverse the string word by word.
 
 - Example:  
 
