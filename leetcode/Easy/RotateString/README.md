@@ -20,4 +20,5 @@ A and B will have length at most 100.
 ## My Result
 
 **Runtime** : 32 ms, faster than 100.00% of Python3 online submissions for Rotate String.
+
 **Memory Usage** : 6.4 MB, less than 62.82% of Python3 online submissions for Rotate String.
