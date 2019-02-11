@@ -53,4 +53,5 @@ All characters have an ASCII value in [35, 126].
 ## My Result
 
 **Runtime** : 52 ms, faster than 88.98% of Python3 online submissions for String Compression.
+
 **Memory Usage** : 6.5 MB, less than 62.13% of Python3 online submissions for String Compression.
