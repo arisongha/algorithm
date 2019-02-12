@@ -7,17 +7,17 @@ Given two strings A and B of lowercase letters, return true if and only if we ca
 > `Input`: A = "ab", B = "ba"
 `Output`: true
 
--Example 2:
+- Example 2:
 
 > `Input`: A = "ab", B = "ab"
 `Output`: false
 
--Example 3:
+- Example 3:
 
 > `Input`: A = "aa", B = "aa"
 `Output`: true
 
--Example 4:
+- Example 4:
 
 > `Input`: A = "aaaaaaabc", B = "aaaaaaacb"
 `Output`: true
