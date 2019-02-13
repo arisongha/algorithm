@@ -26,4 +26,5 @@ Here follow means a full match, such that there is a bijection between a letter 
 ## My Result
 
 **Runtime** : 32 ms, faster than 99.90% of Python3 online submissions for Word Pattern.
+
 **Memory Usage** : 12.5 MB, less than 0.85% of Python3 online submissions for Word Pattern.
