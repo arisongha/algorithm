@@ -14,3 +14,9 @@ e
 - Explanation:
 
 'e' is the letter that was added.
+
+## My Result
+
+**Runtime** : 48 ms, faster than 49.95% of Python3 online submissions for Find the Difference.
+
+**Memory Usage**: 12.3 MB, less than 100.00% of Python3 online submissions for Find the Difference.
