@@ -31,5 +31,5 @@ Time Limit Exceeded
 
 ## TODO
 
-$$O(n^2)$$  다른 방법 필요
+O(n^2) 다른 방법 필요
 
