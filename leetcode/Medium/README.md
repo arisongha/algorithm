@@ -1,0 +1,1 @@
+- Leetcode 에서 난이도 Medium에 해당하는 문제입니다.
