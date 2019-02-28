@@ -24,7 +24,7 @@ Given two strings A and B of lowercase letters, return true if and only if we ca
 
 - Example 5:
 
-`Input`: A = "", B = "aa"
+> `Input`: A = "", B = "aa"
 `Output`: false
  
 - Note:
