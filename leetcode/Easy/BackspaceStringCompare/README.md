@@ -49,6 +49,7 @@ Can you solve it in `O(N)` time and `O(1)` space?
 ## My Result
 
 **Runtime** : 68 ms, faster than 5.30% of Python3 online submissions for Backspace String Compare.
+
 **Memory Usage** : 13.2 MB, less than 5.19% of Python3 online submissions for Backspace String Compare.
 
 ## TODO
