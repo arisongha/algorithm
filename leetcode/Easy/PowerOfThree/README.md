@@ -42,4 +42,4 @@ Could you do it without using any loop / recursion?
 
 ## TODO
 
-- leetcode submission submit 통과 절차상 문제가 있어보인다. 다시 풀어보지 않아도 될거같은 
+- leetcode submission submit 통과 절차상 문제가 있어보인다. 다시 풀어보지 않아도 될것같다.
