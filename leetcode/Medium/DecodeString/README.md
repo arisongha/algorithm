@@ -15,7 +15,7 @@ s = "2[abc]3[cd]ef", return "abcabccdcdcdef".
 
 ## My Result
 
-Failed
+First attempt: **Failed**
 
 ## TODO
 
