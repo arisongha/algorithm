@@ -19,4 +19,14 @@ Output:
 
 ## My Result
 
-**First Attempt** :  
+- First Attempt 
+
+**Time Limit Exceeded**
+
+- Second Attempt
+
+**Dynamic Programming**
+
+**Runtime** : 36 ms, faster than 66.76% of Python3 online submissions for Pascal's Triangle.
+
+**Memory Usage** : 13.1 MB, less than 5.83% of Python3 online submissions for Pascal's Triangle.
