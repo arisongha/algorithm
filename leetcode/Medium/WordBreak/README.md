@@ -33,7 +33,7 @@ Output: false
 
 ## My Result 
 
-First attempt: **Failed**
+First Attempt: **Failed**
 
 ## TODO
 
