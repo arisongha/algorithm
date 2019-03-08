@@ -5,6 +5,8 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 
 - Example:
 
+![pascals_triangle](https://user-images.githubusercontent.com/44221590/54026561-9d0f8d80-41e1-11e9-88da-9b9905b9a86c.gif)
+
 ```
 Input: 5
 Output:
