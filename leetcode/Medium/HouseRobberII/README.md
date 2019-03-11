@@ -26,4 +26,4 @@ First Attempt: **Failed**
 
 ## TODO
 
-- Memoize 가능한 지? DP 외의 방법 있는지? 
+- Memoize 가능한 문제인지? DP 외의 방법 있는지? 
