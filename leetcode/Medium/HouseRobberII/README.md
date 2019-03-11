@@ -23,3 +23,7 @@ Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
 ## My Result
 
 First Attempt: **Failed**
+
+## TODO
+
+- Memoize 가능한 지? DP 외의 방법 있는지? 
