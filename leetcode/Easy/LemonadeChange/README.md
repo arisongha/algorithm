@@ -45,5 +45,11 @@ Since not every customer received correct change, the answer is false.
 
 - Note:
 
-`0 <= bills.length <= 10000`
-`bills[i]` will be either `5`, `10`, or `20`.
+ - `0 <= bills.length <= 10000`
+ - `bills[i]` will be either `5`, `10`, or `20`.
+ 
+## My Result
+
+**Runtime** : 648 ms, faster than 5.05% of Python3 online submissions for Lemonade Change.
+
+**Memory Usage** : 13.6 MB, less than 6.15% of Python3 online submissions for Lemonade Change.
