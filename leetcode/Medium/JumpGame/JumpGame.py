@@ -9,7 +9,6 @@ class Solution:
         
         self.dic[0] = nums[0]
         for i in range(1, len(nums)):
-            print(self.dic[i-1], i)
             if self.dic[i-1] < i:
                 return False
             
