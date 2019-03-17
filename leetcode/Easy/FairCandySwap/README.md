@@ -48,3 +48,7 @@ Output: [5,4]
 **Runtime** : 2556 ms, faster than 18.92% of Python3 online submissions for Fair Candy Swap.
 
 **Memory Usage** : 14.5 MB, less than 33.33% of Python3 online submissions for Fair Candy Swap.
+
+## TODO
+
+- O(mn) 외의 다른 방법?
