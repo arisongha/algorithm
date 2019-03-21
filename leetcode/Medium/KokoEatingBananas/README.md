@@ -10,7 +10,7 @@ Return the minimum integer K such that she can eat all the bananas within H hour
 ```
 Input: piles = [3,6,7,11], H = 8
 Output: 4
-``
+```
 
 - Example 2
 
