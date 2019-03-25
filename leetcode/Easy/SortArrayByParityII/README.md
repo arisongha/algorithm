@@ -21,3 +21,6 @@ Explanation: [4,7,2,5], [2,5,4,7], [2,7,4,5] would also have been accepted.
  
 ## My Result
 
+**Runtime** : 168 ms, faster than 30.17% of Python3 online submissions for Sort Array By Parity II.
+
+**Memory Usage** : 15.6 MB, less than 5.49% of Python3 online submissions for Sort Array By Parity II.
