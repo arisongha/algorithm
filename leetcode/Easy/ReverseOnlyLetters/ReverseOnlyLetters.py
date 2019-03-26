@@ -5,14 +5,13 @@ class Solution:
         letters.reverse()
         letterlist = list(S)
         
+        result = ""
         for i,v in enumerate(letterlist):
             if v.isalpha():
                 letterlist[i] = letters.pop(0)
-        
-        result = ""
-        for i,v in enumerate(letterlist):
-            result += v
                 
+            result += letterlist[i]
+        
         return result
 
 
