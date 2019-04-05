@@ -18,7 +18,7 @@ So 'e' must appear before both 'r' and 't'. Therefore "eetr" is also a valid ans
 
 - Example 2:
 
-``
+```
 Input:
 "cccaaa"
 
