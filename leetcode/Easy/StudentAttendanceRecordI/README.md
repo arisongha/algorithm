@@ -14,6 +14,7 @@ You need to return whether the student could be rewarded according to his attend
 ```
 Input: "PPALLP"
 Output: True
+```
 
 - Example 2:
 
