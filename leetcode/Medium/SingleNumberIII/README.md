@@ -17,5 +17,5 @@ Output: [3,5]
 
 ## My Result
 
-** Runtime** : 2128 ms, faster than 5.06% of Python3 online submissions for Single Number III.
-** Memory Usage** : 14.2 MB, less than 5.77% of Python3 online submissions for Single Number III.
+**Runtime** : 2128 ms, faster than 5.06% of Python3 online submissions for Single Number III.
+**Memory Usage** : 14.2 MB, less than 5.77% of Python3 online submissions for Single Number III.
