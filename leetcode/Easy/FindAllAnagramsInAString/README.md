@@ -35,7 +35,7 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 ## My Result
 
-Time Limit Exceeded
+**First Attempt** : Time Limit Exceeded
 
 ## TODO
 
