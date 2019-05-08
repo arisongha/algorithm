@@ -22,7 +22,8 @@ Explanation: 5! = 120, one trailing zero.
 
 ## My Result
 
-Time Limit Exceeded
+**First Attempt** : Time Limit Exceeded
 
 ## TODO 
-O(logn) 시간복잡도로 
+
+- O(logn) 시간복잡도로 
