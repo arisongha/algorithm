@@ -15,4 +15,4 @@ If you have figured out the O(n) solution, try coding another solution using the
 
 ## My Result
 
-First Attemp: **Failed**
+**First Attemp** : Failed
