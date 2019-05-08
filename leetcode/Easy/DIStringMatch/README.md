@@ -40,5 +40,5 @@ Output: [3,2,0,1]
 
 ## TODO
 
-- 요구사항 파악
+- 요구사항 파악, S의 length와 output list의 max num은 같다.
 
