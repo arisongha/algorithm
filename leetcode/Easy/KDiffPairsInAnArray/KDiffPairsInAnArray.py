@@ -1,4 +1,9 @@
 
+# coding: utf-8
+
+# In[37]:
+
+
 class Solution:
     def findPairs(self, nums: 'List[int]', k: int) -> int:
         if k < 0:
@@ -16,6 +21,8 @@ class Solution:
         
         return len(result)
 
+
+# In[38]:
 
 
 sol = Solution()
