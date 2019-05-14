@@ -44,7 +44,7 @@ S and T only contain lowercase letters and '#' characters.
 
 - Follow up:
 
-Can you solve it in `O(N)` time and `O(1)` space?
+  - Can you solve it in `O(N)` time and `O(1)` space?
 
 ## My Result
 
