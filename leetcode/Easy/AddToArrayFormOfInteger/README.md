@@ -44,7 +44,13 @@ Explanation: 9999999999 + 1 = 10000000000
   
 ## My Result
 
-Time Limit Exceeded
+**First Attempt** : Time Limit Exceeded
+
+**Second Attempt** :
+
+**Runtime** : 244 ms, faster than 27.57% of Python3 online submissions for Add to Array-Form of Integer.
+
+**Memory Usage** : 14.1 MB, less than 12.49% of Python3 online submissions for Add to Array-Form of Integer.
 
 ## TODO
 
