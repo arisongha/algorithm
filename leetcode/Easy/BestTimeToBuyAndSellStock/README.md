@@ -23,8 +23,16 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 ## My Result
 
-First Attempt : Time Limit Exceeded
+**First Attempt** : Time Limit Exceeded
+
+**Second Attempt** :
+
+**Runtime** : 40 ms, faster than 93.50% of Python3 online submissions for Best Time to Buy and Sell Stock.
+
+**Memory Usage** : 14.2 MB, less than 5.40% of Python3 online submissions for Best Time to Buy and Sell Stock.
 
 ## TODO
 
 O(n^2) 외의 다른 방법 
+
+- 두번째 시도: for loop 내의 max(price[i+1:]를 제거하고 Min Price 변수를 넣어 for loop를 돌때마다 제거한 코드의 역할을 수행하게끔 하였다. 
