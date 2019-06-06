@@ -35,7 +35,17 @@ Given two strings A and B of lowercase letters, return true if and only if we ca
   
 ## My Result
 
-**Time Limit Exceeded**
+**First Attempt** : Time Limit Exceeded
+
+**Second Attempt** :
+
+**Runtime** : 40 ms, faster than 79.42% of Python3 online submissions for Buddy Strings.
+
+**Memory Usage** : 13.4 MB, less than 29.77% of Python3 online submissions for Buddy Strings.
+
 
 ## TODO
+
 - 이중 for loop 외의 다른 방법으로 구현 필요
+
+- 두번째 시도: enumerate 와 zip 의 활용 (다른이의 풀이를 참고)
