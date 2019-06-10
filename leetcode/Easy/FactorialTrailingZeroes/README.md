@@ -24,6 +24,8 @@ Explanation: 5! = 120, one trailing zero.
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** : Time Limit Exceeded
+
 ## TODO 
 
-- O(logn) 시간복잡도로 
+- 두번째 시도: countZero = str(resultInt).count("0") 코드를 넣어서 두번째 for loop 최대 trail 0의 개수의 제한을 걸어주었지만 결과는 같았다.
