@@ -37,6 +37,10 @@ The substring with start index = 2 is "ab", which is an anagram of "ab".
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** : Time Limit Exceeded
+
 ## TODO
 
-O(n^2) 외의 다른 방법 
+- O(n^2) 외의 다른 방법 
+
+- 두번째 시도 : 절차상의 시간복잡도를 줄였다고 생각했지만 for loop안에서 sorted를 사용했으므로 O(nmlogm)의 시간복잡도가 되었다. Time Limit Exceeded 예제의 시간은 8배 가량 줄었지만 역시 결과는 같았다.
