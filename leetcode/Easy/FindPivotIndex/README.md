@@ -37,3 +37,15 @@ There is no index that satisfies the conditions in the problem statement.
 ## My Result
 
 **First Attempt** : Time Limit Exceeded
+
+**Second Attempt** : 
+
+**Runtime** : 44 ms, faster than 99.54% of Python3 online submissions for Find Pivot Index.
+
+**Memory Usage** : 14.1 MB, less than 55.87% of Python3 online submissions for Find Pivot Index.
+
+## TODO
+
+- for loop 내부에 sum 연산을 두번 사용하므로 시간복잡도는 O(n^2)나 마찬가지이다. 
+
+- 두번째 시도: sum 연산을 for loop 바깥쪽에서 사용하고 for loop 내에서는 해당 index의 숫자를 빼줘서 index의 좌우의 합이 같은지 확인한다. 그러므로 시간복잡도는 O(n)으로 확 줄었다. (Discuss 참고)
