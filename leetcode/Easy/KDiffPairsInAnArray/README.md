@@ -38,7 +38,15 @@ Explanation: There is one 0-diff pair in the array, (1, 1).
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** : 
+
+**Runtime** : 40 ms, faster than 98.82% of Python3 online submissions for K-diff Pairs in an Array.
+
+**Memory Usage** : 14.6 MB, less than 59.04% of Python3 online submissions for K-diff Pairs in an Array.
+
 ## TODO
 
-- Time Complextiy O(n^2m) 이하로. 
+- Time Complextiy O(n^2m) 이하로.
+
+- 두번째 시도: dictionary를 사용하려다 collection class로 간단하게 dictionry 역할을 해줄수 있어서 for loop 하나로 같은 결과를 도출하였다.
 
