@@ -12,6 +12,9 @@ class Solution:
             if i+k < len(nums):
                 sumNum = sumNum - nums[i] + nums[i+k]
                 
+            if i+k == len(nums):
+                break
+                
         return maxSum/k
 
 
