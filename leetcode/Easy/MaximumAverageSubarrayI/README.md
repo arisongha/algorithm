@@ -22,9 +22,9 @@ Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
 
 **Second Attempt** : 
 
-**Runtime** : 208 ms, faster than 26.02% of Python3 online submissions for Maximum Average Subarray I.
+**Runtime** : 192 ms, faster than 41.35% of Python3 online submissions for Maximum Average Subarray I.
 
-**Memory Usage** : 15.5 MB, less than 33.05% of Python3 online submissions for Maximum Average Subarray I.
+**Memory Usage** : 15.4 MB, less than 43.03% of Python3 online submissions for Maximum Average Subarray I.
 
 ## TODO
 
