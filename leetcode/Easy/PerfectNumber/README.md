@@ -20,6 +20,10 @@ Explanation: 28 = 1 + 2 + 4 + 7 + 14
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** :
+
+
+
 ## TODO
 
-- Time complexity O(n) 이하로. 
+- 두번째 시도: 범위를 지정해주지않은 loop를 돌며 append하고 remove 했던 과정 자체가 중복되는 부분이 많았는데 int(num**0.5)+1 를 정해줌으로써 중복된 과정을 제거할 수 있었다.(Discuss 참고)
