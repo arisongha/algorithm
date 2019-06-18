@@ -21,14 +21,12 @@ Output:
 
 ## My Result
 
-- First Attempt 
+**First Attempt** : Time Limit Exceeded
 
-**Time Limit Exceeded**
-
-- Second Attempt
+**Second Attempt** :
 
 **Dynamic Programming**
 
-**Runtime** : 36 ms, faster than 66.76% of Python3 online submissions for Pascal's Triangle.
+**Runtime** : 36 ms, faster than 81.92% of Python3 online submissions for Pascal's Triangle.
 
-**Memory Usage** : 13.1 MB, less than 5.83% of Python3 online submissions for Pascal's Triangle.
+**Memory Usage** : 13.2 MB, less than 57.22% of Python3 online submissions for Pascal's Triangle.
