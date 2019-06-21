@@ -16,6 +16,14 @@ return [0, 1].
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** : 
+
+**Runtime**: 36 ms, faster than 92.77% of Python3 online submissions for Two Sum.
+
+**Memory Usage**: 14.6 MB, less than 19.31% of Python3 online submissions for Two Sum.
+
 ## TODO
 
-- O(n^2) 보다 낮은 time complexity 
+- O(n^2) 보다 낮은 time complexity
+
+- 두번째 시도: Dictionary 활용 (Discuss 참고)
