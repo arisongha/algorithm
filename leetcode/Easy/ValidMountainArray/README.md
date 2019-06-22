@@ -40,6 +40,14 @@ Output: true
 
 **First Attempt** : Time Limit Exceeded
 
+**Second Attempt** :
+
+**Runtime** : 80 ms, faster than 15.06% of Python3 online submissions for Valid Mountain Array.
+
+**Memory Usage** : 13.9 MB, less than 76.37% of Python3 online submissions for Valid Mountain Array.
+
 ## TODO
 
-time complexity 
+- Time complexity
+
+- 두번째 시도: Peak이 하나라는 점에 착안하여 for loop를 짜. 하지만 조건문이 너무 많이 들어간것같다.
