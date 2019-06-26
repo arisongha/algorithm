@@ -28,6 +28,14 @@ Output: False
 
 **First Attempt** : Failed
 
+**Second Attempt** : 
+
+**Runtime**: 48 ms, faster than 97.11% of Python3 online submissions for Can Place Flowers.
+
+**Memory Usage** : 13.3 MB, less than 66.73% of Python3 online submissions for Can Place Flowers.
+
 ## TODO 
 
-알고리즘 다시.
+- 알고리즘 다시.
+
+- 두번째 시도: flowerbed의 시작과 끝이 일반적인 규칙과 달라서 분기점을 만들어 따지기가 애매했는데, 시작과 끝의 index에 0을 넣어줌으로써 모든 index에서 동일한 규칙을 만들었다. 또한 flower를 넣어서 count 하는 것이 아니라 n에서 직접 빼주어서 count 해주는 것이 좋은 아이디어같다. (Discuss 참고)
