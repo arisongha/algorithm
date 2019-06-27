@@ -38,6 +38,12 @@ Output: [3,2,0,1]
 
 **First Attempt** : Failed
 
+**Second Attempt** :
+
+**Runtime** : 92 ms, faster than 67.47% of Python3 online submissions for DI String Match.
+
+**Memory Usage** : 14.2 MB, less than 58.52% of Python3 online submissions for DI String Match.
+
 ## TODO
 
 - 요구사항 파악, S의 length와 output list의 max num은 같다.
