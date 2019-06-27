@@ -48,3 +48,5 @@ Output: [3,2,0,1]
 
 - 요구사항 파악, S의 length와 output list의 max num은 같다.
 
+- 두번째 시도: (Discuss 참고)
+
