@@ -36,6 +36,8 @@ This is the maximum distance possible, so the answer is 3.
 
 **First Attempt** : Failed
 
+**Second Attempt** : Failed
+
 ## TODO
 
 - 알고리즘 제대로
