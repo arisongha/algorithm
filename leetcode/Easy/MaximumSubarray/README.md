@@ -16,3 +16,13 @@ If you have figured out the O(n) solution, try coding another solution using the
 ## My Result
 
 **First Attemp** : Failed
+
+**Second Attempt** : 
+
+**Runtime** : 32 ms, faster than 99.52% of Python3 online submissions for Maximum Subarray.
+
+**Memory Usage** : 14 MB, less than 11.50% of Python3 online submissions for Maximum Subarray.
+
+## TODO
+
+- 두번째 시도: (Discuss 참고)
