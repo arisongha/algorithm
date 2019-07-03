@@ -25,4 +25,4 @@ If you have figured out the O(n) solution, try coding another solution using the
 
 ## TODO
 
-- 두번째 시도: (Discuss 참고)
+- 두번째 시도: for loop를 돌면서 현재의 index 이전의 value값이 양수인지 음수인지에 따라 가산할지 말지를 정해나가는 아이디어가 좋은것같다.(Discuss 참고)
