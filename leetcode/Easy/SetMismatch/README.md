@@ -18,3 +18,14 @@ Output: [2,3]
 ## My Result
 
 **First Attempt** : Failed
+
+**Second Attempt** : 
+
+**Runtime** : 84 ms, faster than 29.37% of Python3 online submissions for Set Mismatch.
+
+**Memory Usage** : 15.7 MB, less than 5.05% of Python3 online submissions for Set Mismatch.
+
+## TODO
+
+- 두번째 시도: 중복된 숫자를 count-up 하기위해서 굳이 dictionary를 쓰지 않아도 됐을것 같다. dictionary를 쓰지 않는 다른 방법을 찾아봐야겠다.
+
