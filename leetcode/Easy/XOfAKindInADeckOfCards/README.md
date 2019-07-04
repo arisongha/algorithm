@@ -56,6 +56,10 @@ Explanation: Possible partition [1,1],[2,2],[2,2]
 
 **First Attempt** : Failed
 
+**Second Attempt** : Failed
+
 ## TODO
 
 - 요구사항 파악
+
+- 두번째 시도: 짜보고 나니 첫번째와 비슷한 코드가 나와버렸다.
