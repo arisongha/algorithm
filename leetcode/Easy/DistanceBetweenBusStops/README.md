@@ -15,6 +15,7 @@ Return the shortest distance between the given start and destination stops.
 ```
 
 - Example 2:
+
 ![untitled-diagram-1-1](https://user-images.githubusercontent.com/44221590/64686155-2bcbd280-d4c3-11e9-8e8e-404be0f2ce87.jpg)
 
 ```
@@ -24,6 +25,7 @@ Return the shortest distance between the given start and destination stops.
 ```
 
 - Example 3:
+
 ![untitled-diagram-1-2](https://user-images.githubusercontent.com/44221590/64686157-2d959600-d4c3-11e9-9404-386bfa28ad1a.jpg)
 
 ```
