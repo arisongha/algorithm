@@ -6,7 +6,7 @@ Return the shortest distance between the given start and destination stops.
 
 ## Example 1:
 
-![untitled-diagram-1](./image/untitled-diagram-1.jpg)
+![untitled-diagram-1](https://user-images.githubusercontent.com/44221590/64686148-28d0e200-d4c3-11e9-9c08-8a69749600a5.jpg)
 
 ```
 **Input**: distance = [1,2,3,4], start = 0, destination = 1
@@ -15,7 +15,7 @@ Return the shortest distance between the given start and destination stops.
 ```
 
 ## Example 2:
-![untitled-diagram-1](./image/untitled-diagram-1-1.jpg)
+![untitled-diagram-1-1](https://user-images.githubusercontent.com/44221590/64686155-2bcbd280-d4c3-11e9-8e8e-404be0f2ce87.jpg)
 
 ```
 **Input**: distance = [1,2,3,4], start = 0, destination = 2
@@ -24,7 +24,7 @@ Return the shortest distance between the given start and destination stops.
 ```
 
 ## Example 3:
-![untitled-diagram-1](./image/untitled-diagram-1-2.jpg)
+![untitled-diagram-1-2](https://user-images.githubusercontent.com/44221590/64686157-2d959600-d4c3-11e9-9404-386bfa28ad1a.jpg)
 
 ```
 **Input**: distance = [1,2,3,4], start = 0, destination = 3
