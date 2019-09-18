@@ -31,3 +31,7 @@ we combine 1 and 1 to get 0 so the array converts to [1] then that's the value o
 **Runtime**: 44 ms, faster than 13.88% of Python3 online submissions for Last Stone Weight.
 
 **Memory Usage**: 13.8 MB, less than 100.00% of Python3 online submissions for Last Stone Weight.
+
+## TODO
+
+- while 문 안에서 sort, 효율성 테스트 였다면 통과X, 다른방법 찾아야.
