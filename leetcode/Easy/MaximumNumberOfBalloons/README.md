@@ -5,12 +5,16 @@ You can use each character in text at most once. Return the maximum number of in
 
 - Example 1:
 
+![1536_ex1_upd](https://user-images.githubusercontent.com/44221590/65222064-47555f80-daf9-11e9-8947-31349e74f490.jpg)
+
 ```
 Input: text = "nlaebolko"
 Output: 1
 ```
 
 - Example 2:
+
+![1536_ex2_upd](https://user-images.githubusercontent.com/44221590/65222065-47555f80-daf9-11e9-9aa9-8b8ddd3364ce.jpg)
 
 ```
 Input: text = "loonbalxballpoon"
