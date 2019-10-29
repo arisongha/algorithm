@@ -21,5 +21,8 @@ Output: 49
 
 **Second Attempt**:
 
+**Runtime**: 144 ms, faster than 71.00% of Python3 online submissions for Container With Most Water.
+
+**Memory Usage**: 15.5 MB, less than 5.26% of Python3 online submissions for Container With Most Water.
 
 
