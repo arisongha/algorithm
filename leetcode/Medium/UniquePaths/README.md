@@ -6,10 +6,11 @@ The robot can only move either down or right at any point in time. The robot is 
 How many possible unique paths are there?
 
 ![robot_maze](https://user-images.githubusercontent.com/44221590/68070205-c69fa980-fdae-11e9-996c-ff736d7c49e6.png)
+
 Above is a 7 x 3 grid. How many possible unique paths are there?
 
 - Note: 
-m and n will be at most 100.
+  - m and n will be at most 100.
 
 - Example 1:
 
