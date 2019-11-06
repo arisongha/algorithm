@@ -28,6 +28,6 @@ return: 9534330
 
 ## My Result
 
-**First Attempt**: Failed
+**First Attempt**: Time Out
 
 **Second Attempt**: 다른이 풀이
