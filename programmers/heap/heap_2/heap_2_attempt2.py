@@ -6,7 +6,6 @@ def solution(stock, dates, supplies, k):
     h=[]
     while(stock<k):
         for i in range(idx,len(dates)):
-            print(i, dates[i], stock)
             if dates[i]<=stock:
                 heapq.heappush(h,(-supplies[i],supplies[i]))
                 idx=i+1
