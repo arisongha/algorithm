@@ -25,7 +25,13 @@ n	computers	                        return
 
 아래와 같이 2개의 네트워크가 있습니다.
 
+<img width="357" alt="cc1e7816-b6d7-4649-98e0-e95ea2007fd7 (1)" src="https://user-images.githubusercontent.com/44221590/70123772-b3863f00-16b6-11ea-9fa5-2e92171be9ce.png">
+
+
   - 예제 #2
 
 아래와 같이 1개의 네트워크가 있습니다.
+
+<img width="366" alt="cc1e7816-b6d7-4649-98e0-e95ea2007fd7" src="https://user-images.githubusercontent.com/44221590/70123773-b41ed580-16b6-11ea-816c-22ab76662b1c.png">
+
 
