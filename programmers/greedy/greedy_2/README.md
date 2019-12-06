@@ -25,3 +25,5 @@ number	    k	return
 ## My Result
 
 **First Attempt**: 알고리즘잘못짬, while 문안의 if 분기를 잘못잡았다.
+
+**Second Attempt**: pass
