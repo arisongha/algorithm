@@ -34,4 +34,4 @@ Output: true
 
 **Runtime** : 48 ms, faster than 12.25% of Python3 online submissions for Unique Number of Occurrences.
 
-**Memory Usage**: 12.8 MB, less than 100.00% of Python3 online submissions for Unique Number of Occurrences.
+**Memory Usage** : 12.8 MB, less than 100.00% of Python3 online submissions for Unique Number of Occurrences.
