@@ -45,4 +45,5 @@ Explanation: s can be split into "RL", "RRRLLRLL", since each substring contains
 ## My Result
 
 **Runtime** : 28 ms, faster than 66.83% of Python3 online submissions for Split a String in Balanced Strings.
+
 **Memory Usage** : 12.7 MB, less than 100.00% of Python3 online submissions for Split a String in Balanced Strings.
