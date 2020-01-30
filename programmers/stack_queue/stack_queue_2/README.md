@@ -43,4 +43,5 @@ return: 1
 ## My Result
 
 **First Attempt** : Failed, 정확도: 50/100
+
 **Second Attempt** : Failed, 정확도: 85/100, 런타임 오류를 못찾겠다. while loop를 무한으로 돌아서 그런것 같은데.
