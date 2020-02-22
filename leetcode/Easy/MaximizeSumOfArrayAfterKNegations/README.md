@@ -39,6 +39,8 @@ Explanation: Choose indices (1, 4) and A becomes [2,3,-1,5,4].
 
 **First Attempt** : Failed
 
-## TODO
+**Second Attempt** : 
 
-간단한 알고리즘 필요.
+**Runtime**: 44 ms, faster than 85.00% of Python3 online submissions for Maximize Sum Of Array After K Negations.
+
+**Memory Usage**: 12.9 MB, less than 100.00% of Python3 online submissions for Maximize Sum Of Array After K Negations.
