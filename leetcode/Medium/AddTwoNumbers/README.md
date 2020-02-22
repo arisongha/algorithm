@@ -13,7 +13,7 @@ Explanation: 342 + 465 = 807.
 
 ## My Result
 
-** First Attempt** : Runtime Error
+**First Attempt** : Runtime Error
 
 **TODO** : return 값 제대로
 
