@@ -35,3 +35,5 @@ Explanation: The longest arithmetic subsequence is [7,5,3,1].
 ## My Result
 
 **First Attempt**: Time Limit Exceeded
+
+**Second Attempt**: Time Limit Exceeded
