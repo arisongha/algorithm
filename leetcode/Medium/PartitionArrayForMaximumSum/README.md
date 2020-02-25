@@ -23,6 +23,8 @@ Explanation: A becomes [15,15,15,9,10,10,10]
 
 **First Attempt** : Runtime Error
 
+**Second Attempt** : Wrong Answer
+
 ## TODO
 
 요구사항 파악.
